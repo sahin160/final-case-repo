@@ -3,6 +3,7 @@ Türk telekom trai veri bilimi ve analitigi practicum' da aldğığımız eğiti
 
 ## TRAFFİC ACCİDENTS ANALYSİS PROJECT
 incelediğimiz veri seti İngiltere'de 2000-2016 yıllarına ait 1.6 milyondan fazla trafik kazasının verisini içermektedir. Bu veri seti aracılığıyla, trafik akışının değişmesi kazaları nasıl etkilediği , Kaza oranlarının artıran sebebler gibi sorulara yanıt aradık
+
 ![Lorem picsum gorsel](https://github.com/sahin160/final-case-repo/blob/main/trafficjpeg.jpeg)
 
 ## WORLD HAPPİNİES REPORT PROJECT
