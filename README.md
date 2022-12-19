@@ -1,6 +1,6 @@
 # FİNAL CASE PROJECT REPOSİTORİES
 
-Türk telekom trai veri bilimi ve analitigi practicum' da aldğığımız eğitimin son tamamlama projeleri olan dünya mutluluk projesi ve trafik analiz projesinin kodlama ve açıklamalarını içeren repodur
+Türk telekom trai veri bilimi ve analitigi practicum' da katıldığımız eğitimin son tamamlama projeleri olan dünya mutluluk projesi ve trafik analiz projesinin kodlama ve açıklamalarını içeren repodur
 
 ![Lorem picsum gorsel](https://github.com/sahin160/final-case-repo/blob/main/t%C3%BCrktelekom.jpeg)
 
